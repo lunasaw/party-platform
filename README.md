@@ -28,7 +28,7 @@ yttv-platform
     <a href="https://czy1024.github.io/yttv-platform"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="">查看Demo</a>
+    <a href="yttv.vaiwan.com/yttv/web/index">查看Demo</a>
     ·
     <a href="">报告Bug</a>
     ·
