@@ -23,7 +23,7 @@ party-platform
 
   <h3 align="center">党建平台</h3>
   <p align="center">
-    盐城师范学院信息工程学院党建平台
+    信息工程学院党建平台
     <br />
     <a href="https://czy1024.github.io/party-platform"><strong>探索本项目的文档 »</strong></a>
     <br />
