@@ -60,7 +60,7 @@ party-platform
 1. Clone the repo
 
 ```sh
-git clone https://github.com/czy1024/party-platform.git
+git clone https://github.com/lunasaw/party-platform.git
 ```
 
 ### 文件目录说明
@@ -134,20 +134,19 @@ email Keyluna@126.com  &ensp; qq:1173288254
 
 
 <!-- links -->
-[your-project-path]:czy1024/party-platform
-[contributors-shield]: https://img.shields.io/github/contributors/czy1024/party-platform.svg?style=flat-square
-[contributors-url]: https://github.com/czy1024/party-platform/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/czy1024/party-platform.svg?style=flat-square
-[forks-url]: https://github.com/czy1024/party-platform/network/members
-[stars-shield]: https://img.shields.io/github/stars/czy1024/party-platform.svg?style=flat-square
-[stars-url]: https://github.com/czy1024/party-platform/stargazers
-[issues-shield]: https://img.shields.io/github/issues/czy1024/party-platform.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/czy1024/party-platform.svg
-[license-shield]: https://img.shields.io/github/license/czy1024/party-platform.svg?style=flat-square
-[license-url]: https://github.com/czy1024/party-platform/blob/master/LICENSE.txt
+[your-project-path]:lunasaw/party-platform
+[contributors-shield]: https://img.shields.io/github/contributors/lunasaw/party-platform.svg?style=flat-square
+[contributors-url]: https://github.com/lunasaw/party-platform/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lunasaw/party-platform.svg?style=flat-square
+[forks-url]: https://github.com/lunasaw/party-platform/network/members
+[stars-shield]: https://img.shields.io/github/stars/lunasaw/party-platform.svg?style=flat-square
+[stars-url]: https://github.com/lunasaw/party-platform/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lunasaw/party-platform.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/lunasaw/party-platform.svg
+[license-shield]: https://img.shields.io/github/license/lunasaw/party-platform.svg?style=flat-square
+[license-url]: https://github.com/lunasaw/party-platform/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/party-platform
-
 
 
 
