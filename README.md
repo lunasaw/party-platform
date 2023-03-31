@@ -66,14 +66,11 @@ git clone https://github.com/czy1024/party-platform.git
 ### 文件目录说明
 eg:
 
-```
-    找到src/main/java/com/ruoyi/PartyPlatformApplication.java启动它        
-```
-    当然首先你需要修改你的数据库
-    将sql文件夹下的数据导入你的数据
-    在party-admin/src/main/resources/application-druid.yml修改连接
+找到src/main/java/com/ruoyi/PartyPlatformApplication.java启动它      
+当然首先你需要修改你的数据库，将sql文件夹下的数据导入你的数据
+在party-admin/src/main/resources/application-druid.yml修改连接
     
-    演示地址 http://yctc.vaiwan.com/party-platform/admin/page/main
+演示地址 http://${domain:port}/party-platform/admin/page/main
 ## 各 Module 介绍
 
 | Module 名称                              | Module 介绍  |
@@ -127,7 +124,7 @@ email Keyluna@126.com  &ensp; qq:1173288254
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/czy1024/party-platform/blob/master/LICENSE)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/lunasaw/party-platform/blob/master/LICENSE)
 
 ### 鸣谢[]()
 
